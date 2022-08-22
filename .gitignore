@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 추가예외파일
+busan_cafe.csv
+busan_cafe_2.csv
+부산광역시 부산진구_CCTV.csv
+부산광역시_주요_공원_데이터.csv
+부산시_주요상권현황.xlsx
+소상공인시장진흥공단_상가(상권)정보_부산_202206.csv
